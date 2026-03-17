@@ -28,3 +28,4 @@
 📢 DUYURULAR & DESTEK / UPDATES: https://t.me/tatiktools
 
 ⚠️ NOTE:Please report bugs or suggestions via Telegram. All future updates and the TURKFORCE launch will be shared exclusively on our channel!
+(lıstmaker2.png)
