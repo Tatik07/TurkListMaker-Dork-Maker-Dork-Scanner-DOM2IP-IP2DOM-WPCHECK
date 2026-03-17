@@ -1,4 +1,4 @@
-# TurkListMaker---Dork-Maker--Dork-Scanner---DOM2IP---IP2DOM---WP-CHECK
+# TurkListMaker-Dork-Maker--Dork-Scanner-DOM2IP-IP2DOM-WP-CHECK
 
 **TurkListMaker**, WordPress sitelerini tespit etmek, domain toplamak ve reverse IP yapmak için geliştirilmiş bir masaüstü aracıdır.
 
